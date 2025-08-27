@@ -1,0 +1,19 @@
+# Minimal requirements inferred from project imports. Pin versions as needed.
+numpy<2.0
+scipy
+pandas
+matplotlib
+seaborn
+Pillow
+tqdm
+jax
+psutil
+nbconvert
+pytest
+pipreqs
+git+https://github.com/dynamicslab/pysindy.git@8341efb
+brokenaxes
+matplotx
+# local packages used in repo (kept in-repo):
+# - SFFI
+# - simulation_models
