@@ -42,10 +42,11 @@ If you want to re-run the full parameter sweeps (which produced the `.pkl` files
 This repository is provided under the MIT License (file `LICENSE`).
 
 ## Citing
-If you use this code for research, please cite the paper associated with this repository:
 
-PASTIS paper (arXiv): https://arxiv.org/abs/2501.10339
+If you use this code or results from this repository, please cite both the paper and the archived code release.
 
-Please cite the arXiv reference above when using results or code from this repository.
+**Code DOI (Zenodo):**  
+[![DOI](https://zenodo.org/badge/1045735468.svg)](https://doi.org/10.5281/zenodo.17204977)
 
-
+**Paper (arXiv preprint):**  
+PASTIS paper: https://arxiv.org/abs/2501.10339
